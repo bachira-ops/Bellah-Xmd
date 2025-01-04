@@ -22,7 +22,7 @@
     },
   "OWNER_NUMBER": {
       "description": "Enter your whatsapp number here",
-      "value": "2349169444428
+      "value": "2349169444428"
       "required": true
     },
   "TYPE_MENU": {
