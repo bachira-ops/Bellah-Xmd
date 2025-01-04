@@ -17,12 +17,12 @@
 },
   "BOT_NAME": {
       "description": "Enter bot name of your choice here",
-      "value": "Bellah Xmd",
+      "value": "Bellah",
       "required": false
     },
   "OWNER_NUMBER": {
       "description": "Enter your whatsapp number here",
-      "value": "254104245659",
+      "value": "2349169444428
       "required": true
     },
   "TYPE_MENU": {
@@ -48,11 +48,11 @@
   "AUTO_BLOCK": {
       "description": "Type true if you want bot to block unknown numbers if else type false",
       "value": "",
-      "required": false
+      "required": true
     },
   "ANTIFOREIGN_NUMBER": {
       "description": "Enter antiforeignnumbers with country codes if you don't want antiforeign numbers",
-      "value": "234,263",
+      "value": "234",
       "required": false 
     },
   "PREFIX": {
@@ -62,7 +62,7 @@
     },
     "AUTO_RECORD": {
       "description": "type true if you want bot to indicate recording or else type false",
-      "value": "false",
+      "value": "true",
       "required": false
     }
     },
